@@ -1,0 +1,5 @@
+{
+    "require": {
+        "timgws/query-builder-parser": "^1.6"
+    }
+}
